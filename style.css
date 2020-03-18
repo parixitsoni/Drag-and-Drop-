@@ -22,7 +22,12 @@
 }
 
 .hold{
-    border: solid #f4f;
+    border: solid #000000;
+    border-style: dashed;
+}
+
+.hoverd{
+    background-color: #f4f4f4;
     border-style: dashed;
 }
 
